@@ -1,8 +1,9 @@
 # Welcome
 
-Beka Stiling formed this organization in order to connect staff within King County's Science and Technical Support Section. If you are a KC Science staff member, please request to join the group! I plan to put a post in Teams in early July to try to get GitHub users connected. I've created this group in the meantime, in order to practice forming a group!
+Beka Stiling formed this GitHub organization in order to start connecting staff within King County's Science and Technical Support Section. If you are a KC Science staff member and you stumbled upon this group, please request to join the group! I (Beka) plan to put a post in Teams in early July 2022 to formally start to get GitHub users connected. I've created this group today (June 16) to learn how to form a GitHub group and check out some of the features.
 
-## Goal
+## Goals
 
-- Connect Science Section staff scientists in order to grow and develop open and reproducible science practices.
-- Allow Science Section projects to be shared among Science Staff, even if repos are otherwise private.
+- Connect Science Section staff scientists
+- Collectively grow and develop open and reproducible science practices.
+- Easily share Science Section technical projects and code with one another, even if repos are otherwise private.
